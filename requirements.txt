@@ -70,6 +70,7 @@ rsa
 safetensors
 scikit-learn
 scipy
+seaborn
 sentence-transformers
 sentencepiece
 six
