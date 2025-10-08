@@ -470,5 +470,13 @@ with st.container(border=True):
                 else:
                     st.warning("Execute uma consulta antes.")
 
-st.markdown("---")
-st.markdown("Adaptado por xxx, com apoio do grupo TENKAI")
+st.markdown("""
+<hr style="border: 0.5px solid #333; margin-top: 3em; margin-bottom: 1em;">
+
+<div style="text-align:center; color: #888; font-size: 14px;">
+    Desenvolvido com 💡 por 
+    <b style="color:#4CAF50;">Erlon Lopes Dias</b> 
+    — Grupo <b style="color:#00BFFF;">TenkAI</b> ⚡<br>
+    <span style="font-size:12px;">© 2025 — Projeto I2A2 | EDA Agent</span>
+</div>
+""", unsafe_allow_html=True)
