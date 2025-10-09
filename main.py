@@ -494,4 +494,4 @@ else:
             st.warning("Execute uma consulta e analise os dados primeiro para gerar o PDF.")
 
 st.markdown("---")
-st.markdown("Adaptado por Rafael, com apoio do grupo TENKAI")
+st.markdown("Adaptado por Erlon L. Dias, com apoio do grupo TENKAI")
