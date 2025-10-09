@@ -34,7 +34,7 @@ source .venv/bin/activate
 #### Windows
 ```bash
 uv venv
-.\.venv\Scripts\activate
+source .venv\Scripts\activate
 ```
 
 #### 2. Instale as dependências: 
